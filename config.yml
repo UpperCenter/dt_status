@@ -10,7 +10,7 @@ params:
     where you can create and customise your character!
   description_header: >-
     Join our <a class='text-grey-darkest' title='Discord Link'
-    href='https://discord.derguns.town/' Discord Server</a> for the most up to
+    href='https://discord.derguns.town/' <Discord Server</a> for the most up to
     date information.
   eventsPerPage: 10
   groups:
