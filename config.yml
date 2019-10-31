@@ -11,10 +11,8 @@ params:
   description_header: >-
     Information about <a class='text-grey-darkest' title='Visit Dergun Town'
     href='https://derguns.town/'></a> systems operations.<br />Follow us <a
-    class='text-grey-darkest' title='Visit our page on Twitter'
-    href='https://www.twitter.com/example'>on Twitter</a> or subscribe to <a
-    class='text-grey-darkest' href='%s' >RSS</a><br />to be alerted of new
-    events.
+    class='text-grey-darkest' title='Visit our Discord server'
+    href='https://discord.derguns.town'>Discord server</a>
   eventsPerPage: 10
   groups:
     - Main
