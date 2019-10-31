@@ -25,4 +25,7 @@ params:
     - description: The main Dergun Town site.
       link: 'https://derguns.town/'
       name: Website
+    - description: Official Discord Server For Derguns Town
+      link: 'https://discord.derguns.town'
+      name: Discord Server
   timezoneString: ' UTC'
