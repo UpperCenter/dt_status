@@ -18,7 +18,7 @@ params:
   eventsPerPage: 10
   groups:
     - Main
-  logo: /images/clearstatus.svg
+  logo: /images/logo.png
   meta_description: Main Status Page For Derguns.Town.
   shortDateFormat: '03:04 PM — Jan 2'
   systems:
