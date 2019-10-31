@@ -9,15 +9,10 @@ params:
     href='https://derguns.town/'>Dergun Town</a> is a free to play browser game
     where you can create and customise your character!
   description_header: >-
-    <a class='text-grey-darkest' title='Visit Derguns Town'
-    href='https://derguns.town/'>Dergun Town</a> is a free to play browser game
-    where you can create and customise your character!
+    Here you can find information about our service status here.
 
-
-    Information about <a class='text-grey-darkest' title='Visit Dergun Town'
-    href='https://derguns.town/'></a> systems operations.<br />Join our <a
-    class='text-grey-darkest' href='https://discord.derguns.town'>Discord
-    server</a>
+    Join our <a class='text-grey-darkest' title='Join Derguns Town Discord'
+    href='https://derguns.town/'>Discord server</a> 
   eventsPerPage: 10
   groups:
     - Main
