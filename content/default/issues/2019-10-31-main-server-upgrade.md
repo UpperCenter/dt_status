@@ -3,7 +3,7 @@ section: issue
 title: Main Server Upgrade
 date: 2019-11-04T07:03:00.000Z
 status: scheduled
-pinned: top
+pinned: belowheader
 current_severity: down
 max_severity: down
 duration: 2 hours
