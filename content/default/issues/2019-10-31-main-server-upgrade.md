@@ -5,7 +5,7 @@ date: 2019-11-04T07:03:00.000Z
 status: scheduled
 current_severity: down
 max_severity: down
-duration: 2 hours
+duration: 2 hours to 3 hours
 resolved_on: ''
 affected:
   - Website
