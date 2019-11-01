@@ -12,7 +12,7 @@ affected:
 twitterFeed: ''
 enableComments: false
 ---
-### We will be upgading out main server hardware.
+### We will be upgading our main server hardware.
 
 There will be significant downtime during this period, please check the Discord for up to date information.
 
