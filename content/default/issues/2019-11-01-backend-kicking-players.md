@@ -1,13 +1,13 @@
 ---
 section: issue
 title: Backend Kicking Players
-date: 2019-10-30T00:40:12.330Z
+date: 2019-10-30T23:14:00.000Z
 status: resolved
 pinned: ''
 current_severity: ok
 max_severity: disrupted
 duration: 1 Hour
-resolved_on: 2019-11-01T00:40:12.394Z
+resolved_on: 2019-10-30T23:40:00.000Z
 affected:
   - Website
 twitterFeed: ''
