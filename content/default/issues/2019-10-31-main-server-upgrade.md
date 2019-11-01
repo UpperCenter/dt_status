@@ -1,7 +1,7 @@
 ---
 section: issue
 title: Main Server Upgrade
-date: 2019-11-04T07:03:00.000Z
+date: 2019-11-04T07:00:00.000Z
 status: scheduled
 current_severity: down
 max_severity: down
