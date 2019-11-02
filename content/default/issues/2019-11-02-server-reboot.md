@@ -4,7 +4,7 @@ title: Server Reboot
 date: 2019-11-02T01:18:39.813Z
 status: resolved
 pinned: belowheader
-current_severity: disrupted
+current_severity: ok
 max_severity: down
 duration: '11/02/2019 1:25 AM'
 resolved_on: 2019-11-02T01:16:00.000Z
