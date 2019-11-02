@@ -3,7 +3,6 @@ section: issue
 title: Server Reboot
 date: 2019-11-02T01:18:39.813Z
 status: resolved
-pinned: belowheader
 current_severity: ok
 max_severity: down
 duration: ''
