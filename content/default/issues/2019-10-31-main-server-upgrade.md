@@ -2,7 +2,7 @@
 section: issue
 title: Main Server Upgrade
 date: 2019-11-06T14:00:00.000Z
-status: scheduled
+status: in_progress
 current_severity: down
 max_severity: down
 duration: 2 hours to 3 hours
