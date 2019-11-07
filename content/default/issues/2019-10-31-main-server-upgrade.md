@@ -6,7 +6,7 @@ status: resolved
 current_severity: ok
 max_severity: down
 duration: 2 hours to 3 hours
-resolved_on: ''
+resolved_on: 2019-11-06T17:00:00.000Z
 affected:
   - Website
 twitterFeed: ''
