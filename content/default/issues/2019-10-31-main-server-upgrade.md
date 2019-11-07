@@ -3,7 +3,7 @@ section: issue
 title: Main Server Upgrade
 date: 2019-11-06T14:00:00.000Z
 status: resolved
-current_severity: down
+current_severity: ok
 max_severity: down
 duration: 2 hours to 3 hours
 resolved_on: ''
