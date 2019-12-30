@@ -2,12 +2,12 @@
 section: issue
 title: Global DNS Propergation Issues
 date: 2019-12-23T00:35:41.384Z
-status: in_progress
+status: resolved
 pinned: ''
-current_severity: monitoring
+current_severity: ok
 max_severity: down
 duration: 12 Hours
-resolved_on: ''
+resolved_on: 2019-12-30T00:00:00.000Z
 affected:
   - Website
 twitterFeed: ''
