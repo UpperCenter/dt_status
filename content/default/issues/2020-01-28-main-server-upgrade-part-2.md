@@ -2,7 +2,7 @@
 section: issue
 title: Main Server Upgrade Part 2
 date: 2020-01-30T20:00:00.151Z
-status: scheduled
+status: in_progress
 current_severity: ok
 max_severity: down
 duration: Between 3 and 4 hours
