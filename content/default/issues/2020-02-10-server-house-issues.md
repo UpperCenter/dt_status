@@ -7,7 +7,7 @@ pinned: ''
 current_severity: ok
 max_severity: down
 duration: ''
-resolved_on: 2020-02-01T01:55:00.000Z
+resolved_on: 2020-02-10T01:55:00.000Z
 affected:
   - Website
 twitterFeed: '@UpperCenter'
