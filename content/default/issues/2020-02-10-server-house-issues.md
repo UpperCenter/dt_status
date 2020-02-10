@@ -2,9 +2,9 @@
 section: issue
 title: Server House Issues
 date: 2020-02-10T00:03:31.360Z
-status: in_progress
+status: resolved
 pinned: ''
-current_severity: down
+current_severity: ok
 max_severity: down
 duration: ''
 resolved_on: ''
